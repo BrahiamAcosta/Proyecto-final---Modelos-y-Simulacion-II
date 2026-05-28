@@ -33,7 +33,7 @@ El repositorio contiene:
 
 El video de sustentación del proyecto se encuentra en el siguiente enlace:
 
-**[PEGAR_AQUI_ENLACE_DEL_VIDEO]**
+**https://youtu.be/8EgnVZrPnmY**
 
 ---
 
