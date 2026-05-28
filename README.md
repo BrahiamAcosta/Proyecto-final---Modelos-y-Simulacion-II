@@ -56,6 +56,10 @@ keywords.csv
 
 # Ejecución en Google Colab
 
+A continuación se dan las instrucciones para ejecutar el notebook principal:
+
+`modelos_prediccion_taquilla.ipynb`
+
 ## Requisitos previos
 
 Antes de ejecutar el notebook:
